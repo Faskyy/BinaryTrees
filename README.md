@@ -1,1 +1,1 @@
-An introduction to Binary Trees in Java Data Structures :)
+An introduction to Binary Trees for Data Structures
